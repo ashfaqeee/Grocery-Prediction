@@ -3,7 +3,7 @@
 
 # In[ ]:
 
-
+# The necessary files can be found in Kaggle. This is not the final code used for the competition. A sample is presented here.
 from keras.models import Sequential
 from keras.layers import Dense, Dropout
 import pandas as pd
